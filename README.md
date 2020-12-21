@@ -1,3 +1,5 @@
 # HELLO-WORLD
 
-Sziasztok Lacinak hivnak , most kezdtem bele ebbe az új webfejlesztésbe és még egy kicit új nekem. 
+Sziasztok Lacinak hivnak , most kezdtem bele ebbe az új webfejlesztésbe és még egy kicit új nekem.
+
+Kérhetek egy kis segítséget valakitől 
